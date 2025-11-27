@@ -18,22 +18,22 @@
 <p>A tech-enthusiast with a growing passion for cloud computing and a clear long-term goal of becoming a Senior Solutions Architect. My journey into tech is driven by a fascination with how cloud technologies can transform businesses and solve complex challenges.
 
 I am deeply passionate about cloud computing because I believe it is more than just the future,it's the engine of modern innovation. I'm fascinated by its potential to empower businesses of all sizes, offering unprecedented scalability, flexibility, and security. My ultimate goal as a Solutions Architect is to be at the forefront of this transformation, leveraging my skills to design elegant, impactful solutions that harness the full power of the cloud. This passion is the driving force behind my continuous learning and my commitment to helping businesses not just adapt, but thrive in the digital age.</p>
-AWS re/Start Journey
+<h1>AWS re/Start Journey</h1>
 Recently, I completed the intensive AWS re/Start program, where I built a robust foundation in cloud technologies. Beyond the practical projects showcased here, the program provided me with:
 
-Comprehensive theoretical knowledge of core AWS services and their interconnections.
+<h4>Comprehensive theoretical knowledge of core AWS services and their interconnections.</h4>
 A deep understanding of cloud best practices in areas like security, cost optimization, and operational excellence.
 Essential problem-solving methodologies tailored for cloud environments.
 Crucial professional skills, including teamwork, presentation, and effective technical communication.
-This holistic experience has equipped me with both the technical acumen and the client-centric approach vital for a successful career in cloud solutions. I am now focused on securing an entry-level cloud position where I can continue to learn, grow, and gain real-world experience, building a solid technical foundation to progress into a Cloud Solutions Architect role.
+This holistic experience has equipped me with both the technical acumen and the client-centric approach vital for a successful career in cloud solutions. I am now focused on securing an entry-level cloud position where I can continue to learn, grow, and gain real-world experience, building a solid technical foundation to progress into a Cloud Solutions Architect role.<br/><br/>
 
 🏆Badges
 image alt image alt
 
-🛠️ Skills & Technologies
-I have hands-on experience with the Amazon Web Services (AWS) platform. My skills include core AWS services such as EC2, S3, RDS, VPC, IAM, and CloudFormation. I apply key cloud concepts, including scalability, security, cost optimization, and Infrastructure as Code and more from re/Start.
+<h4>🛠️ Skills & Technologies</h4></br>
+I have hands-on experience with the Amazon Web Services (AWS) platform. My skills include core AWS services such as EC2, S3, RDS, VPC, IAM, and CloudFormation. I apply key cloud concepts, including scalability, security, cost optimization, and Infrastructure as Code and more from re/Start.<br/><br/>
 
-Soft Skills Include:
+<h4>Soft Skills Include:</h4><br/>
 Problem-Solving
 
 Good Communication Skills
