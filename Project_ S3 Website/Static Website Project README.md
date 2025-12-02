@@ -63,7 +63,7 @@ The website was rebuilt using clean HTML, CSS, and JavaScript, incorporating scr
 
 In the go-live stage, the website domain was linked through Route 53. The site’s performance was tested across multiple global regions using CloudFront, ensuring that content was delivered efficiently to international users. Secure access via HTTPS was also verified to confirm that the SSL certificate was functioning correctly.
 
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/0a5c653345de94de394c6d5e82d96defda8b76fc/Project%3A%20S3%20Website/1000016983.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project_%20S3%20Website/Food%20Website/Food%20Website/image/Home%20Page.png)
 
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project_%20S3%20Website/Food%20Website/Food%20Website/image/AboutUs.png)
 
