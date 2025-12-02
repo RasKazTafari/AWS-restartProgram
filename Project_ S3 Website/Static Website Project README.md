@@ -1,13 +1,13 @@
-# Building a static website for Zoe Fitness Company
+# Building a static website for Foody Restuarant 
 
 ## AWS Cloud Migration Project
 
 ## Overview
-Zoe Fitness is a growing wellness brand offering online and in-person coaching. The company’s website was initially hosted on a traditional shared hosting service. As the brand expanded, this setup proved limiting and led to several challenges. To overcome these issues, Zoe Fitness migrated its static website built with HTML, CSS, and JavaScript to the AWS Cloud, leveraging AWS Free Tier services to achieve better performance, scalability, and cost efficiency.
+Foody Restuarant is a growing local restuarant. The company’s website was initially hosted on a traditional shared hosting service. As the brand expanded, this setup proved limiting and led to several challenges. To overcome these issues, Foody Restuarant migrated its static website built with HTML, CSS, and JavaScript to the AWS Cloud, leveraging AWS Free Tier services to achieve better performance, scalability, and cost efficiency.
 
 ## Challenges with Traditional Hosting
 
-- Before the migration, Zoe Fitness faced the following challenges:
+- Before the migration, Foody Restuarant faced the following challenges:
 
 - Performance Issues: Slow page load times, especially for international users, due to limited bandwidth and shared server resources.
 
@@ -69,7 +69,7 @@ In the go-live stage, the website domain was linked through Route 53. The site�
 
 ### 5. Training & Handover
 
-Finally, training was provided to the Zoe Fitness team on how to update and manage files directly within S3. Documentation was created to support future updates through GitHub and AWS Amplify pipelines. AWS billing alerts were also configured to help the team monitor usage and remain within Free Tier limits.
+Finally, training was provided to the Foody Restuarant team on how to update and manage files directly within S3. Documentation was created to support future updates through GitHub and AWS Amplify pipelines. AWS billing alerts were also configured to help the team monitor usage and remain within Free Tier limits.
 
 ## Conclusion
 
