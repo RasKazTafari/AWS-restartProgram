@@ -65,7 +65,7 @@ In the go-live stage, the website domain was linked through Route 53. The siteâ€
 
 ![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/0a5c653345de94de394c6d5e82d96defda8b76fc/Project%3A%20S3%20Website/1000016983.png)
 
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/0a5c653345de94de394c6d5e82d96defda8b76fc/Project%3A%20S3%20Website/1000016987.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project_%20S3%20Website/Food%20Website/Food%20Website/image/AboutUs.png)
 
 ### 5. Training & Handover
 
