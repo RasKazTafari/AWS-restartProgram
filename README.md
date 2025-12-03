@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kazizwe</h1>
+<h1 align="center">Hi, I'm Kazizwe</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 
-- 🌱 I’m currently learning **AWS cloud Practioner**
+- I’m currently learning **AWS cloud Practioner**
 
-- 💬 Ask me about **python, react, vue**
+-  Ask me about **python, react, vue**
 
-- 📫 How to reach me **chirwa112391@gmail.com**
+-  How to reach me **chirwa112391@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/kazizwe-chirwa-22796012a](www.linkedin.com/in/kazizwe-chirwa-22796012a)
+- Know about my experiences [www.linkedin.com/in/kazizwe-chirwa-22796012a](www.linkedin.com/in/kazizwe-chirwa-22796012a)
 
-- ⚡ Fun fact **I think i am funny**
+- Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
