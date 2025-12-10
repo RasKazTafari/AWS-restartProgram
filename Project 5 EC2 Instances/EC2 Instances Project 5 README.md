@@ -14,38 +14,38 @@ This project focused on exploring multiple methods for launching Amazon EC2, a c
 
 Task 1: Launching the Bastion host EC2 instance via the AWS Management Console.
 
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/c5a1fb10125a9c3da3ab09dd7e9f85769d5002a9/Project%205%20images/Launching%20an%20instance.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/Launching%20an%20instance.png)
 
 
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/c5a1fb10125a9c3da3ab09dd7e9f85769d5002a9/Project%205%20images/Screenshot%202025-08-06%20175047.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/Screenshot%202025-08-06%20175047.png)
 
 
 Task 2:Logging in to the bastion host 
 
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/c5a1fb10125a9c3da3ab09dd7e9f85769d5002a9/Project%205%20images/logging%20in%20to%20bastion%20Host%20ec2.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/logging%20in%20to%20bastion%20Host%20ec2.png)
 
 
 Task 3: Launching an EC2 instance using the AWS CLI
 
 Retrieving the AMI to use
 
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/c5a1fb10125a9c3da3ab09dd7e9f85769d5002a9/Project%205%20images/retreiving%20an%20ami%20for%20bastion%20host.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/Launching%20an%20instance.png)
 
 Retrieving the subnet to use
 
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/c5a1fb10125a9c3da3ab09dd7e9f85769d5002a9/Project%205%20images/public%20subnet%20fo%20bastion%20host.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/retreiving%20an%20ami%20for%20bastion%20host.png)
 
 Retrieving the security group to use
 
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/c5a1fb10125a9c3da3ab09dd7e9f85769d5002a9/Project%205%20images/sg%20.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/retreiving%20an%20ami%20for%20bastion%20host.png)
 
 Viewing the contents of the userdata
 
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/c5a1fb10125a9c3da3ab09dd7e9f85769d5002a9/Project%205%20images/contents%20of%20user%20script.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/contents%20of%20user%20script.png)
 
 Launched the instance
 
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/c5a1fb10125a9c3da3ab09dd7e9f85769d5002a9/Project%205%20images/instance%20id%20of%20launched%20instance.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/instance%20id%20of%20launched%20instance.png)
 
 ## Conclusion
 This project provided valuable insights into the various methods of deploying compute resources on AWS, which is fundamental for any cloud professional. I successfully:
