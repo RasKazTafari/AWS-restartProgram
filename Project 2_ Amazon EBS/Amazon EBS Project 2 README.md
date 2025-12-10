@@ -13,22 +13,22 @@ The key objectives for this lab project were:
 ![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/16abae5dbbe656960bb60c759472f167d70886df/Project%202%3A%20images/Screenshot%202025-07-03%20150608.png)
 
 Task 1: Creating a new EBS volume
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/16abae5dbbe656960bb60c759472f167d70886df/Project%202%3A%20images/Task%201.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%202_%20Amazon%20EBS/Task%201%20Creating%20a%20new%20EBS%20volume.png)
 
 Task 2: Attaching the volume to an EC2 instance
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/16abae5dbbe656960bb60c759472f167d70886df/Project%202%3A%20images/task%202%20in%20action.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%202_%20Amazon%20EBS/task%202%20Attaching%20the%20volume%20to%20an%20EC2%20instance.png)
 
 Task 3: Connecting to the Lab EC2 instance
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/16abae5dbbe656960bb60c759472f167d70886df/Project%202%3A%20images/task%203%20connecting%20to%20the%20lab%20ec2%20connect.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%202_%20Amazon%20EBS/task%203%20connecting%20to%20the%20lab%20ec2%20connect.png)
 
 Task 4: Creating and configuring the file system
-![image alt]( https://github.com/Nndoza/AWS-re-start-Program/blob/16abae5dbbe656960bb60c759472f167d70886df/Project%202%3A%20images/task%204%20added%20some%20text%20on%20mounted%20volume.png)
+![image alt]( https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%202_%20Amazon%20EBS/task%204%20added%20some%20text%20on%20mounted%20volume.png)
 
 Task 5: Creating an Amazon EBS snapshot
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/16abae5dbbe656960bb60c759472f167d70886df/Project%202%3A%20images/Task%205%20creating%20a%20snapshot.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%202_%20Amazon%20EBS/task%205.1%20snapshot%20created.png)
 
 Task 6: Creating a volume by using the snapshot
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/16abae5dbbe656960bb60c759472f167d70886df/Project%202%3A%20images/creating%20volume%20from%20snapshot.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%202_%20Amazon%20EBS/creating%20volume%20from%20snapshot.png)
 
 ## Conclusion
 This project provided a comprehensive understanding of Amazon EBS, a critical component for persistent storage in the AWS ecosystem. I successfully:
