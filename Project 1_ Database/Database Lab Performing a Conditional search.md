@@ -66,7 +66,7 @@ To return To return the same information as the previous query with the column a
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/ALIAS.png)
 
 To perform a case-sensitive search by using the LOWER function, run the following query.
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/ALIAS.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/LOWER.png)
 
 ## Conclusion
 In this lab, you successfully connected to the Command Host EC2 instance using AWS Systems Manager Session Manager and prepared the environment to work with the MySQL database client. After establishing the connection, you accessed the world database and practiced using a variety of SQL queries to explore and analyze data.
