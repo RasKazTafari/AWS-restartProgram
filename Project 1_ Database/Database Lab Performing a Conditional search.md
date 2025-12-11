@@ -53,48 +53,9 @@ mysql -u root --password='re:St@rt!9'
 
 
 Task 2:Query the world database 
-In this task, you will query the world database by using various SELECT statements and database functions.
 
-To show the existing databases, run the following query. 
-
-SHOW DATABASES;
-Verify that a database named world is available. If the world database is not available, then contact your instructor.
-
-To review the table schema, data, and number of rows in the country table, run the following query.
-
-SELECT * FROM world.country;
-By reducing the number of records, the result set would be smaller and easier to work with. To limit the number of records returned, you can use a WHERE clause to define the conditions that records must match.
-
-Use the AND operator to combine two conditions. Each record is checked against both conditions before it's included in the result set. You can use the > operator and = operator to query values that are greater than or equal to a certain value. Similarly, you can combine the < operator and = operator to query values that are less than or equal to a certain value.
-
-To reduce the number of records in the result set by using a WHERE clause and the AND operator, run the following query.
-
-SELECT Name, Capital, Region, SurfaceArea, Population FROM world.country WHERE Population >= 50000000 AND Population <= 100000000;
-When searching for records by using a range condition, you can use the BETWEEN operator instead of the >= operator and <= operator. By using the BETWEEN operator, the query is easier to read. Note that the operator is inclusive, meaning that the beginning and ending values are included.
-
-To return the same records as the previous result set by using the BETWEEN operator, run the following query.
-
-SELECT Name, Capital, Region, SurfaceArea, Population FROM world.country WHERE Population BETWEEN 50000000 AND 100000000;
-You can use the LIKE function to search for a string pattern. The following query will return records that include the string Europe in the Region column. The percent symbol (%) is a wildcard character that represents any number of characters before or after the word Europe. The query will aggregate the population of all European countries by using the SUM function.
-
-To return the population of all European countries by using the LIKE function and SUM function, run the following query.
-
-SELECT sum(Population) from world.country WHERE Region LIKE "%Europe%";
-In the previous query, the SELECT clause included a SUM function. In the following query, the SUM function is still used to calculate the total population of Europe. The query also includes a column alias, which makes the output easier to read. To define the column alias, the AS command is used in the SELECT statement.
-
-To return the same information as the previous query with the column alias, run the following query.
-
-SELECT sum(population) as "Europe Population Total" from world.country WHERE region LIKE "%Europe%";
-Note that SQL is not a case-sensitive language. You can use either SELECT or select when writing a query. However, databases that you query might be configured with a case-sensitive collation. If the database was case sensitive, you would not be able to query a column named Population by using the following: select population from world.country
-
-Even though the database used in this lab is not case sensitive, we recommended making your queries consistent with the naming convention that is used in the database.
-
-The following example demonstrates how to perform a case-sensitive search. Depending on the database configuration, when comparing Central to central, the outcome might be false, because the strings don't use the same case. To solve this problem, you can use the LOWER function in the WHERE clause to compare the strings both as lowercase.
-
-To perform a case-sensitive search by using the LOWER function, run the following query.
-
-SELECT Name, Capital, Region, SurfaceArea, Population from world.country WHERE LOWER(Region) LIKE "%central%";
-
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/Operations.png)
+To return the same records as the previous result set by using the BETWEEN operator.
 
 ## Conclusion
 In this lab, you successfully connected to the Command Host EC2 instance using AWS Systems Manager Session Manager and prepared the environment to work with the MySQL database client. After establishing the connection, you accessed the world database and practiced using a variety of SQL queries to explore and analyze data.
