@@ -57,6 +57,15 @@ Task 2:Query the world database
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/Operations.png)
 To return the same records as the previous result set by using the BETWEEN operator.
 
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/Operations.png)
+To return the same records as the previous result set by using the BETWEEN operator.
+
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/Operations.png)
+To return the same records as the previous result set by using the BETWEEN operator.
+
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/Operations.png)
+To return the same records as the previous result set by using the BETWEEN operator.
+
 ## Conclusion
 In this lab, you successfully connected to the Command Host EC2 instance using AWS Systems Manager Session Manager and prepared the environment to work with the MySQL database client. After establishing the connection, you accessed the world database and practiced using a variety of SQL queries to explore and analyze data.
 
