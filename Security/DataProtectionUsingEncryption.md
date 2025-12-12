@@ -60,9 +60,10 @@ Next we encrypt the **secret1.txt** file
 
 The file has been ecrypted:
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%206_Security/ecrypted.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Security/ecrypted.png)
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%206_Security/symmetricKey.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Security/symmetricKey.png)
+
 
 
 
