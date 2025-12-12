@@ -17,16 +17,16 @@ This project provided a comprehensive introduction to AWS IAM, a fundamental ser
 Task 1: Created an account password policy
 
 In this task, I created a custom password policy for my AWS account. This policy affects all the users associated with the account.
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%204_%20IAM/password%20rest.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/password%20rest.png)
 
-Task 2: Explored users and user groups
+Task 2: Explored users and user group
 
 The S3 Support group has the AmazonS3ReadOnlyAccess policy attached
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%204_%20IAM/task%202.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/all%20user%20groups%20have%201%20user%20task%202.png)
 
 Task 3: Added users to user groups
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%204_%20IAM/task%203%20adding%20users.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/task%203%20adding%20users.png)
 
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%204_%20IAM/all%20user%20groups%20have%201%20user%20task%202.png)
 
@@ -41,7 +41,7 @@ User 1 is an S3-Support group in IAM, and has permission to view a list of S3 bu
 
 User 2 has read only permissions
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%204_%20IAM/user%202%20had%20ec2%20permissions.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/user%201%20had%20no%20EC2%20permissions.png)
 
 I received a message stating Access Denied because user-2 does not have permissions for Amazon S3.
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%204_%20IAM/user%202%20had%20ec2%20permissions.png)
