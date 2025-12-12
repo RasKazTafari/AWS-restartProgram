@@ -7,11 +7,11 @@ This lab demonstrates how to use the SELECT statement and a WHERE clause to filt
 
 ## Architecture Diagram
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/commandHost.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/commandHost.png)
 
 
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/Operations.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/Operations.png)
 
 Task 1: Task 1: Connect to the Command Host
 In this task, you connect to an Amazon Elastic Compute Cloud (Amazon EC2) instance containing a database client, which you will use to connect to a database. This instance will be referred to as the Command Host.
@@ -54,19 +54,19 @@ mysql -u root --password='re:St@rt!9'
 
 Task 2:Query the world database 
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/BETWEEN.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/BETWEEN.png)
 To return the same records as the previous result set by using the BETWEEN operator.
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/SELECT.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/SELECT.png)
 To return the population of all European countries by using the LIKE function and SUM function
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/WHERE.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/WHERE.png)
 To return To return the same information as the previous query with the column alias,
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/ALIAS.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/ALIAS.png)
 
 To perform a case-sensitive search by using the LOWER function, run the following query.
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/LOWER.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/LOWER.png)
 
 ## Conclusion
 In this lab, you successfully connected to the Command Host EC2 instance using AWS Systems Manager Session Manager and prepared the environment to work with the MySQL database client. After establishing the connection, you accessed the world database and practiced using a variety of SQL queries to explore and analyze data.
