@@ -2,7 +2,7 @@
 
 Task 1: Create an AWS KMS key
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/KMS%20Key.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Security/KMS%20Key.png)
 **Task 1: Create an AWS KMS key**
 
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Configure%20Key.png)
@@ -63,4 +63,5 @@ The file has been ecrypted:
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%206_Security/ecrypted.png)
 
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%206_Security/symmetricKey.png)
+
 
