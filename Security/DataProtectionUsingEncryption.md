@@ -21,8 +21,6 @@ To open the AWS credentials file, run the following command:
 
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Security/Define%20Key.png)
 
-![image alt](****)
-
 **Task 2: Configure the File Server instance**
 
 15. To open the AWS credentials file, run the following command:
@@ -63,6 +61,7 @@ The file has been ecrypted:
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Security/ecrypted.png)
 
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Security/symmetricKey.png)
+
 
 
 
