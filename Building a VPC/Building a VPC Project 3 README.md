@@ -74,7 +74,7 @@ Choose View VPC.
 Lab VPC details are displayed as per configuration.
 
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%203%20Building%20a%20VPC/task%201%20creating%20a%20vpc%20in%20action.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Building%20a%20VPC/task%201%20creating%20a%20vpc%20in%20action.png)
 
 Task 2: Created additional subnets
 
@@ -103,7 +103,7 @@ Choose Create subnet.
 The subnet will have all IP addresses starting with 10.0.3.x.
 
  
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%203%20Building%20a%20VPC/task%202%20creating%20a%20subnet.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Building%20a%20VPC/task%202%20creating%20a%20subnet.png)
 
 Task 3: Associated the subnets and added routes
 
@@ -134,7 +134,7 @@ Choose Save associations.
  Your VPC now has public and private subnets configured in two Availability Zones:
 
  
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%203%20Building%20a%20VPC/task%203.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Building%20a%20VPC/task%203.png)
 
 
 
