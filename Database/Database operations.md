@@ -12,7 +12,7 @@ Import rows from a database backup file
 
 ## Architecture Diagram
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/STATEMENTS.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/STATEMENTS.png)
 
 
 Task 1: Task 1: Connect to a database
@@ -20,23 +20,23 @@ In this task, you connect to an instance containing a database client, which is 
 
 The database operations team has created a relational database called world containing three tables: city, country, and countrylanguage. You have to validate the configuration of the database by running INSERT, UPDATE, and DELETE statements on the country table.
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/connect%20to%20DB.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/connect%20to%20DB.png)
 
 Task 2:Insert data into a table
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/INSERTOTABLE.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/INSERTOTABLE.png)
 
 Task 3: Update rows in a table
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/UPDATEROWS.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/UPDATEROWS.png)
 
 To update the Population and SurfaceArea columns for all rows in the country table
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/POPULATION.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/POPULATION.png)
 
 Task 4:Delete rows from a table
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/DELETE.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/DELETE.png)
 
 Task 5: Import data using an SQL file
 Notice that there are more entries in the country table.
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%201_%20Database/IMPORT.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Database/IMPORT.png)
 
 
 ## Conclusion
