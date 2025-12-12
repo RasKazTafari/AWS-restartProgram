@@ -28,32 +28,32 @@ Task 3: Added users to user groups
 
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/task%203%20adding%20users.png)
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%204_%20IAM/all%20user%20groups%20have%201%20user%20task%202.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/all%20user%20groups%20have%201%20user%20task%202.png)
 
 Task 4: Signed in and tested user permissions
 
 User 1 is not authorized to perform this operation  because the user has not been assigned any permissions to use Amazon EC2.
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%204_%20IAM/all%20user%20groups%20have%201%20user%20task%202.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/all%20user%20groups%20have%201%20user%20task%202.png)
 
 User 1 is an S3-Support group in IAM, and has permission to view a list of S3 buckets and their contents.
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%204_%20IAM/user%201-%20has%20s3%20permissions.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/user%201-%20has%20s3%20permissions.png)
 
 User 2 has read only permissions
 
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/user%201%20had%20no%20EC2%20permissions.png)
 
 I received a message stating Access Denied because user-2 does not have permissions for Amazon S3.
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%204_%20IAM/user%202%20had%20ec2%20permissions.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/user%202%20had%20ec2%20permissions.png)
 
 User 2 only has read permissions and can not stop the instance that is running.
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%204_%20IAM/IAM%20Project%204%20README.md)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/IAM%20Project%204%20README.md)
 
 User 3 has Admin permissions
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%204_%20IAM/user%203%20had%20permissions%20to%20stop%20ec2%20instance%20as%20an%20admin.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/user%203%20had%20permissions%20to%20stop%20ec2%20instance%20as%20an%20admin.png)
 
 User 3 has Admin permissions and can stop running instance.
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%204_%20IAM/user%203%20stopping%20an%20instance.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/user%203%20stopping%20an%20instance.png)
 
 ## Conclusion
 This project was critical for building a foundational understanding of AWS Identity and Access Management, a cornerstone of cloud security. I successfully:
