@@ -46,17 +46,17 @@ pip3 install aws-encryption-sdk-cli
 
 export PATH=\$PATH:/home/ssm-user/.local/bin
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%206_Security/exportPath.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main//exportPath.png)
 
 **Task 3: Encrypt and decrypt data**
 
 We first create the demo file:
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%206_Security/createDemo.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main//createDemo.png)
 
 Next we encrypt the **secret1.txt** file
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%206_Security/encrypt.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main//encrypt.png)
 
 The file has been ecrypted:
 
