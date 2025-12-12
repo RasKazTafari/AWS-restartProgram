@@ -11,7 +11,7 @@ The key objectives for this lab project were:
 
 ## Architecture Diagram
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%203%20Building%20a%20VPC/Screenshot%202025-08-05%20232109.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Building%20a%20VPC/Screenshot%202025-08-05%20232109.png)
 
 Task 1: created a VPC
 
