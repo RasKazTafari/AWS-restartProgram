@@ -47,7 +47,7 @@ I received a message stating Access Denied because user-2 does not have permissi
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/user%202%20had%20ec2%20permissions.png)
 
 User 2 only has read permissions and can not stop the instance that is running.
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/IAM%20Project%204%20README.md)
+
 
 User 3 has Admin permissions
 ![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/IAM/user%203%20had%20permissions%20to%20stop%20ec2%20instance%20as%20an%20admin.png)
