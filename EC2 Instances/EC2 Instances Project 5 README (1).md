@@ -9,7 +9,7 @@ This project focused on exploring multiple methods for launching Amazon EC2, a c
 
 ## Architecture Diagram
 
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/c5a1fb10125a9c3da3ab09dd7e9f85769d5002a9/Project%205%20images/EC2.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/EC2%20Instances/logging%20in%20to%20bastion%20Host%20ec2.png)
 
 
 Task 1: Launching the Bastion host EC2 instance via the AWS Management Console.
@@ -120,10 +120,10 @@ In the Summary section, review the instance configuration details displayed, and
 
 Choose View all instances.
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/Launching%20an%20instance.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/EC2%20Instances/instance%20id%20of%20launched%20instance.png)
 
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/Screenshot%202025-08-06%20175047.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/EC2%20Instances/Screenshot%202025-08-06%20175047.png)
 
 
 Task 2:Logging in to the bastion host 
@@ -161,7 +161,7 @@ The AMI requested was for Amazon Linux 2 (which is the same as the one used for 
 
 The AMI ID has been stored in an environment variable called AMI.
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/Launching%20an%20instance.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/EC2%20Instances/Launching%20an%20instance.png)
 
 Retrieving the subnet to use
 
@@ -171,7 +171,7 @@ SUBNET=$(aws ec2 describe-subnets --filters 'Name=tag:Name,Values=Public Subnet'
 echo $SUBNET
 		This script runs the aws ec2 command with the describe-subnets subcommand to retrieve the subnet ID of the subnet named Public Subnet.
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/retreiving%20an%20ami%20for%20bastion%20host.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/EC2%20Instances/retreiving%20an%20ami%20for%20bastion%20host.png)
 
 Retrieving the security group to use
 
@@ -186,7 +186,7 @@ echo $SG
 Viewing the contents of the userdata
 
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/contents%20of%20user%20script.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/EC2%20Instances/contents%20of%20user%20script.png)
 
 Launched the instance
 
