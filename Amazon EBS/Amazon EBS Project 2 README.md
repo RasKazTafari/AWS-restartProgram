@@ -10,7 +10,7 @@ The key objectives for this lab project were:
 - Create an EBS volume from a snapshot: To restore data from a previously created snapshot into a new, usable EBS volume.
 
 ## Architecture Diagram
-![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/16abae5dbbe656960bb60c759472f167d70886df/Screenshot%202025-07-03%20150608.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Amazon%20EBS/Screenshot%202025-07-03%20150608.png)
 
 Task 1: Creating a new EBS volume
 On the AWS Management Console, in the Search bar, enter and choose EC2 to open the EC2 Management Console.
