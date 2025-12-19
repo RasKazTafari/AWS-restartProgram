@@ -134,7 +134,7 @@ Choose Connect.
 
 On the EC2 Instance Connect tab, choose Connect to connect to the bastion host.
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/logging%20in%20to%20bastion%20Host%20ec2.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/EC2%20Instances/logging%20in%20to%20bastion%20Host%20ec2.png)
 
 
 Task 3: Launching an EC2 instance using the AWS CLI
@@ -181,7 +181,7 @@ SG=$(aws ec2 describe-security-groups --filters Name=group-name,Values=WebSecuri
 echo $SG
 		The script runs the aws ec2 command with the describe-security-groups subcommand to retrieve the security group ID of the web security group.
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/retreiving%20an%20ami%20for%20bastion%20host.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/EC2%20Instances/public%20subnet%20fo%20bastion%20host.png)
 
 Viewing the contents of the userdata
 
