@@ -43,7 +43,7 @@ Key: Enter Name.
 Value: Enter My Volume.
 
 Choose Create volume. 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%202_%20Amazon%20EBS/Task%201%20Creating%20a%20new%20EBS%20volume.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Amazon%20EBS/task%204%20added%20some%20text%20on%20mounted%20volume.png)
 
 Task 2: Attaching the volume to an EC2 instance
 
@@ -59,7 +59,7 @@ Choose Attach volume.
 
 The Volume state of your new volume is now In-use.
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%202_%20Amazon%20EBS/task%202%20Attaching%20the%20volume%20to%20an%20EC2%20instance.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Amazon%20EBS/task%202%20Attaching%20the%20volume%20to%20an%20EC2%20instance.png)
 
 Task 3: Connecting to the Lab EC2 instance
 
@@ -75,7 +75,7 @@ On the EC2 Instance Connect tab, choose Connect.
 
 This option opens a new browser tab with the EC2 Instance Connect terminal window.
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%202_%20Amazon%20EBS/task%203%20connecting%20to%20the%20lab%20ec2%20connect.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Amazon%20EBS/task%203%20connecting%20to%20the%20lab%20ec2%20connect.png)
 
 Task 4: Creating and configuring the file system
 
@@ -130,7 +130,7 @@ To verify that the text has been written to your volume, run the following comma
 cat /mnt/data-store/file.txt
    The output displays the text that this command copies to the file. 
 
-![image alt]( https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%202_%20Amazon%20EBS/task%204%20added%20some%20text%20on%20mounted%20volume.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Amazon%20EBS/Task%201%20Creating%20a%20new%20EBS%20volume.png)
 
 Task 5: Creating an Amazon EBS snapshot
 
@@ -162,7 +162,7 @@ The following message displays: ls: cannot access /mnt/data-store/file.txt: No s
 
 Your file has been deleted.
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%202_%20Amazon%20EBS/task%205.1%20snapshot%20created.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Amazon%20EBS/task%205.1%20snapshot%20created.png)
 
 Task 6: Creating a volume by using the snapshot
 
@@ -211,7 +211,7 @@ To verify that the volume that you mounted has the file that you created earlier
 
 ls /mnt/data-store2/file.txt
 You should see the file.txt file.
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%202_%20Amazon%20EBS/creating%20volume%20from%20snapshot.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Amazon%20EBS/creating%20volume%20from%20snapshot.png)
 
 ## Conclusion
 This project provided a comprehensive understanding of Amazon EBS, a critical component for persistent storage in the AWS ecosystem. I successfully:
