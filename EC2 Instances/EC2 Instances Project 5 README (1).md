@@ -190,7 +190,7 @@ Viewing the contents of the userdata
 
 Launched the instance
 
-![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/Project%205%20EC2%20Instances/instance%20id%20of%20launched%20instance.png)
+![image alt](https://github.com/RasKazTafari/AWS-restartProgram/blob/main/EC2%20Instances/instance%20id%20of%20launched%20instance.png)
 
 ## Conclusion
 This project provided valuable insights into the various methods of deploying compute resources on AWS, which is fundamental for any cloud professional. I successfully:
